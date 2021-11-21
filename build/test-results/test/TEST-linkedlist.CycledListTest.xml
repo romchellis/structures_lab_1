@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="linkedlist.CycledListTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-11-21T12:59:37" hostname="N106201" time="0.078">
+  <properties/>
+  <testcase name="should_return_list_with_reversed_signs()" classname="linkedlist.CycledListTest" time="0.068"/>
+  <testcase name="should_return_list_with_abs_values()" classname="linkedlist.CycledListTest" time="0.002"/>
+  <testcase name="should_sum_return_list_with_abs_values()" classname="linkedlist.CycledListTest" time="0.006"/>
+  <testcase name="built_list_with_addValue_as_expected()" classname="linkedlist.CycledListTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
